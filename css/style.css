@@ -16,12 +16,12 @@ main {
   position: relative;
   width: 1194px;
   height: 834px;
-  background: url("RedbullCheco.jpg");
+  background: ;
 }
 
 .time {
 position: absolute;
-font-family: 'Teko-Regular';
+font-family: "Teko-Regular";
 font-size: 5em;
 top: 350px;
 left: 200px;
@@ -29,7 +29,7 @@ left: 200px;
 
 .date {
   position: absolute;
-  font-family: 'Teko-Medium';
+  font-family: "Teko-Medium";
   bottom: 100px;
   right: 100px;
   font-size: 1.5em;
