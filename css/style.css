@@ -1,8 +1,8 @@
 /* Diagnostic */
 
-* {
+/* * {
   outline: 1px dotted darkgray;
-}
+} */
 
 body {
   display: grid;
@@ -26,13 +26,12 @@ font-size: 6em;
 top: 250px;
 right: 100px;
 color: #F31DB5;
-text-shadow: #8522E9;
 }
 
 .date {
   font-family: 'Teko-Regular';
   position: absolute;
-  top: 400px;
+  top: 350px;
   right: 100px;
   font-size: 2.5em;
   color: #F31DB5; 

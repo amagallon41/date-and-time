@@ -9,3 +9,5 @@
 ## Citations
 * [Favicon Generator](https://favicon.io/)
 * [Amegakure Wallpapers-Top Free Amegakure Backgrounds](https://wallpaperaccess.com/full/6160382.jpg)
+* [Teko Font Family](https://www.fontshare.com/fonts/teko)
+* [Date and Time By EWU Web Lab](https://github.com/ewuweblab/date-and-time)
