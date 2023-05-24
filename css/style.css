@@ -16,21 +16,23 @@ main {
   position: relative;
   width: 1194px;
   height: 834px;
-  background: ;
+  background-image: url(https://wallpaperaccess.com/full/6160382.jpg);
 }
 
 .time {
+font-family: Arial, Helvetica, sans-serif;
 position: absolute;
-font-family: "Teko-Regular";
 font-size: 5em;
-top: 350px;
-left: 200px;
+top: 250px;
+right: 100px;
+color: #F31DB5;
+text-shadow: #8522E9;
 }
 
 .date {
   position: absolute;
-  font-family: "Teko-Medium";
-  bottom: 100px;
+  top: 350px;
   right: 100px;
   font-size: 1.5em;
+  color: #F31DB5; 
 }

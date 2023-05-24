@@ -8,3 +8,4 @@
 
 ## Citations
 * [Favicon Generator](https://favicon.io/)
+* [Amegakure Wallpapers-Top Free Amegakure Backgrounds](https://wallpaperaccess.com/full/6160382.jpg)
